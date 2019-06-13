@@ -1,3 +1,8 @@
+//===================================================================================
+// Name        : Vector_Sort.cpp(bubble sort)
+// Author      : Merlin Mariam Thankachan
+// Description : Vector elements and frequency of words in C++, Ansi-style
+//===================================================================================
 #include<iostream>
 #include<string.h>
 #include<vector>
