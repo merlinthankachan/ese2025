@@ -9,7 +9,6 @@
 #include<algorithm>
 
 using namespace std;
-
 vector<int> v;
 vector<string> v2;
 
