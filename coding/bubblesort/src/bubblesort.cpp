@@ -21,7 +21,7 @@ void Bsortint(vector <int> &num)
      {
           for (j=0; j < (numLength -1); j++)
          {
-               if (num[j+1] < num[j])      // ascending order simply changes to <
+               if (num[j+1] < num[j])      // ascending order simply changes 
               {
                     temp = num[j];           // swap elements
                     num[j] = num[j+1];
