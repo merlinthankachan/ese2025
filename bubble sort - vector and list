@@ -1,0 +1,47 @@
+Bubble sort with vector and list.
+*************
+Works in Eclipse
+**************
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <list>
+#include <iterator>
+using namespace std;
+void bubblesort();
+
+list <int> sortlist;// list values to construct vector
+vector<int> v; // vector initialization
+
+int main() {
+sortlist.push_back(3);
+sortlist.push_back(8);
+sortlist.push_back(5);
+sortlist.push_back(4);
+v.insert(v.begin(), sortlist.begin(),sortlist.end());
+cout << " Bubble sort using Vector and list:\n";
+bubblesort();
+return 0;
+}
+
+void bubblesort() // bubble sort function
+{
+	bool swapp = true;
+	while (swapp) {
+		swapp = false;
+		for (int i = 0; i < v.size(); i++) {
+			if (v[i]>v[i + 1]) {
+				v[i] += v[i + 1];
+				v[i + 1] = v[i] - v[i + 1];
+				v[i] -= v[i + 1];
+				swapp = true;
+			}
+		}
+	}
+	for (int i = 1; i <=v.size(); i++) {
+		cout << v[i] << " ";
+
+	}
+cout << endl;
+}
