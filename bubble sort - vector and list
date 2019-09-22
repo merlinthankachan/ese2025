@@ -1,7 +1,5 @@
 Bubble sort with vector and list.
 *************
-Works in Eclipse
-**************
 
 #include <iostream>
 #include <vector>
