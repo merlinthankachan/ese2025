@@ -1,5 +1,5 @@
-Bubble sort with vector
-********
+//Bubble sort with vector//
+***************************
 
 #include <iostream>
 #include <vector>
