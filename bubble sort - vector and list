@@ -41,6 +41,6 @@ void bubblesort() // bubble sort function
 	for (int i = 1; i <=v.size(); i++) {
 		cout << v[i] << " ";
 
-	}
+	
 cout << endl;
-}
+
