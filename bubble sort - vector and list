@@ -1,6 +1,6 @@
 // Bubble sort with vector and list.
-   Author      : Merlin Mariam Thankachan
-*************//
+ Author      : Merlin Mariam Thankachan
+*****************************************//
 
 #include <iostream>
 #include <vector>
