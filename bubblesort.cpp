@@ -92,7 +92,7 @@ int main()
     {
         cout<<v2[i]<<" ";
     
-  
+    }
     return 0;
 
 }
