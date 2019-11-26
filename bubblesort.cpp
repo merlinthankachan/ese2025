@@ -91,7 +91,7 @@ int main()
     for(int i=0;i<charSize;i++)
     {
         cout<<v2[i]<<" ";
-    }
+    
   
     return 0;
 
