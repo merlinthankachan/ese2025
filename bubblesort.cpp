@@ -84,7 +84,7 @@ int main()
 	cout<<"The sorted integer vector array is : "<<endl;
 	for(int i=0;i<intSize;i++)
 	    {
-	      cout<<v[i]<<" ";
+	      cout<<v[i]<<" "
 	    }
 	//*********************
     cout<<endl<<"The sorted character vector array is : "<<endl;
