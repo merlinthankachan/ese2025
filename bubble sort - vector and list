@@ -8,7 +8,7 @@
 #include <list>
 #include <iterator>
 using namespace std;
-void bubblesort();
+void bubblesort()
 
 list <int> sortlist;// list values to construct vector
 vector<int> v; // vector initialization
