@@ -43,5 +43,4 @@ void bubblesort() // bubble sort function
 
 	}
 cout << endl;
-}
 
