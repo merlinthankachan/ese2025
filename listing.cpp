@@ -9,7 +9,7 @@ int main()
     list<int> array;
 	list<int>::iterator it;
     int a;
-    cout<< "Enter the noss for sorting. press <CTRL><D> to signal EoF"<<endl;
+    cout<< "Enter the nos for sorting. press <CTRL><D> to signal EoF"<<endl;
     while(cin>>a)
     {
     array.push_back(a);
