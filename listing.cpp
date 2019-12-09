@@ -15,11 +15,11 @@ int main()
     array.push_back(a);
     }
     array.sort();
-    cout<< "Sorted numbers are: "<<endl;
+    cout<< "The sorted numbers are: "<<endl;
         int s= array.size();
            if(s==0)
         { 
-            cout<<"NO numbers"<<endl;
+            cout<<"No numbers"<<endl;
             return 1;
         }
         else
