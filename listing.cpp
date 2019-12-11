@@ -15,7 +15,7 @@ int main()
     cout<< "Enter the nos for sorting. press <CTRL><D> to signal EoF"<<endl;
     while(cin>>a)
     {
-    array.pushback(a);
+    array.push_back(a);
     }
     array.sort();
     cout<< "The sorted numbers are: "<<endl;
