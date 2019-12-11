@@ -20,7 +20,7 @@ int main()
     array.sort();
     cout<< "The sorted numbers are: "<<endl;
         int s= array.size();
-           if(s=0)
+           if(s==0)
         { 
             cout<<"No numbers"<<endl;
             return 1;
