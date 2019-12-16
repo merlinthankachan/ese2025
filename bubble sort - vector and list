@@ -22,7 +22,7 @@ v.insert(v.begin(), sortlist.begin(),sortlist.end());
 cout << " Bubble sort using Vector and list:\n";
 bubblesort();
 return 0;
-}
+
 
 void bubblesort() // bubble sort function
 {
