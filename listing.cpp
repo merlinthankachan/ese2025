@@ -12,7 +12,7 @@ int main()
     list<int> array;
 	list<int>::iterator it;
     int a;
-    cout<< "Enter the numbers for sorting. press <CTRL><D> to signal Eo"<<endl;
+    cout<< "Enter the numbers for sorting. press <CTRL><D> to signal EoF"<<endl;
     while(cin>>a)
     {
     array.push_back(a);
