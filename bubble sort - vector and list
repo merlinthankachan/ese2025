@@ -1,6 +1,6 @@
 // Cpp program for Bubble sort with vector and list.
  Author      : Merlin Mariam Thankachan
-****************************************//
+*****************************************************//
 
 #include <iostream>
 #include <vector>
