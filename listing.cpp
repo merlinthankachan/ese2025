@@ -9,7 +9,7 @@ using std::endl; using std::sort;
 
 int main()
 {
-    list<int> array;
+    list<int> array
 	list<int>::iterator it;
     int a;
     cout<< "Enter the numbers for sorting. press <CTRL><D> to signal EoF"<<endl;
