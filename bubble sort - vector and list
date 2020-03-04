@@ -42,5 +42,5 @@ void bubblesort() // bubble sort function
 		cout << v[i] << " ";
 
 	}
-cout << endl
+cout << endl;
 }
