@@ -24,7 +24,7 @@ bubblesort();
 return 0;
 }
 
-void bubblesort() // bubble sort func
+void bubblesort() // bubble sort function
 {
 	bool swapp = true;
 	while (swapp) {
