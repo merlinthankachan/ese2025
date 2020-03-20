@@ -1,5 +1,5 @@
 //Cpp program to sort the numbers using list.//
-************************************************
+***********************************************
 	
 #include <iostream>
 #include <list>
