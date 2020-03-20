@@ -28,6 +28,6 @@ int main()
         else
         	{
         	for (it=array.begin(); it!=array.end(); ++it)
-        	cout<< *it<<endl;
+        	cout<< *it<<endl;}
         return 0;
     }
