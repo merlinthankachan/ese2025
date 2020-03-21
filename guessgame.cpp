@@ -1,4 +1,4 @@
-
+// Cpp program to play game to guess number using pthreads.//
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
