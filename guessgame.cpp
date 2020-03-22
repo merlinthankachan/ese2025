@@ -7,7 +7,8 @@
 #include <unistd.h>
 
 
-int a,b=0;
+int a;
+int b=0;
 
 void *binary_search (void *val){
 	int *num1 = (int *)val;
