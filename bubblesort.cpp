@@ -93,6 +93,6 @@ int main()
         cout<<v2[i]<<" ";
     
     }
-    return 0;
+    return 0
 
 }
