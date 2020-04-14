@@ -35,7 +35,7 @@ int main(){
 	if (pthread_create (p1,NULL,&binary_search,&p) !=0)
 		printf("Thread is not created\n");
 while(1){
-	if((p=a) && (b<50))
+	if((p=a) & (b<50))
 		{
 		printf("Player 1 wins in %d chances\n",b);
 
