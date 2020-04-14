@@ -44,7 +44,7 @@ while(1){
 		{printf("Player 1 losts in %d chances\n",b);
 	break;
 		}
-	usleep(10000);
+	usleep(1000);
 }
 return 0;
 }
