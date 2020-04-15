@@ -9,7 +9,7 @@
 #include<algorithm>
 
 using namespace std;
-vector<int> v
+vector<int> v;
 vector<string> v2;
 
 void Bsortint(vector <int> &num)
