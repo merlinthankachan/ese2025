@@ -22,7 +22,7 @@ int main()
         int s= array.size();
            if(s==0)
         { 
-            cout<<"No numbers"<<endl;
+            cout<<"No number"<<endl;
             return 1;
         }
         else
