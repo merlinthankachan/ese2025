@@ -5,8 +5,7 @@
 #include <list>
 #include <algorithm>
 using std::cout; using std::cin; using std::list;
-using std::endl; 
-using std::sort;
+using std::endl; using std::sort;
 
 int main()
 {
