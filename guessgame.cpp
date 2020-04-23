@@ -1,5 +1,5 @@
 // Cpp program to play game to guess number using pthreads and binary search.//
-*******************************************************************************
+********************************************************************************
 	
 #include <stdio.h>
 #include <stdlib.h>
