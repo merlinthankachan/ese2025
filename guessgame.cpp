@@ -21,7 +21,7 @@ void *binary_search (void *val){
 			last = mid;
 		mid = (first+last)/2;
 		*num1 = mid;
-		b++
+		b++;
 	}
 }
 
