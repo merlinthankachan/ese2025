@@ -13,7 +13,7 @@ void bubblesort();
 list <int> sortlist;// list values to construct vector
 vector<int> v; // vector initialization
 
-int main() {
+int main() 
 sortlist.push_back(3);
 sortlist.push_back(8);
 sortlist.push_back(5);
