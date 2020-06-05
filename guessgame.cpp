@@ -23,7 +23,7 @@ void *binary_search (void *val){
 		*num1 = mid;
 		b++;
 	}
-}
+
 
 int main(){
 
